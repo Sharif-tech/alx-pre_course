@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git pull
+=======
+echo 'Text here' > filename
+>>>>>>> update_script
